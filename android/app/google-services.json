@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "146425350356",
+    "firebase_url": "https://trabalho-progmobile-default-rtdb.firebaseio.com",
+    "project_id": "trabalho-progmobile",
+    "storage_bucket": "trabalho-progmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146425350356:android:27a0a6d2a85d53909f1341",
+        "android_client_info": {
+          "package_name": "com.example.trabalho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEu-f9GWFOt6lk-7mKf_7hFUplrdJSU6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
